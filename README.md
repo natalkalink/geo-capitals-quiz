@@ -38,21 +38,24 @@ This quiz was developed as a final project for a JavaScript course. The project 
 
 **1. General Responsiveness**
 
-<img src="capital-quiz-01.gif" width="100%" />
-
-*How the layout adapts to any screen size.*
+<div align="center">
+  <img src="./img/capital-quiz-01.gif" width="90%" />
+  <p><i>How the layout adapts to any screen size.</i></p>
+</div>
 
 **2. Mobile-First Map UX**
 
-<img src="link_to_video_2.gif" width="100%" />
-
-*Special scaling and scrolling logic to ensure regions remain tappable on small screens.*
+<div align="center">
+  <img src="./img/capital-quiz-02.gif" width="90%" />
+  <p><i>Special scaling and scrolling logic to ensure regions remain tappable on small screens.</i></p>
+</div>
 
 **3. Gameplay Mechanics**
 
-<img src="link_to_video_3.gif" width="100%" />
-
-*Demonstration of map interactions, quiz logic, and educational facts.*
+<div align="center">
+  <img src="./img/capital-quiz-03.gif" width="90%" />
+  <p><i>Demonstration of map interactions, quiz logic, and educational facts.</i></p>
+</div>
 
 ---
 
