@@ -38,7 +38,7 @@ This quiz was developed as a final project for a JavaScript course. The project 
 
 **1. General Responsiveness**
 
-<img src="link_to_video_1.gif" width="100%" />
+<img src="capital-quiz-01.gif" width="100%" />
 
 *How the layout adapts to any screen size.*
 
