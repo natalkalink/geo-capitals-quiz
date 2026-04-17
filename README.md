@@ -9,13 +9,13 @@ With an interactive map and interesting facts, it turns a simple test into an en
 
 ### 🛠️ Technical Highlights
 
-*Modern Build Tool: Powered by Vite for lightning-fast development and optimized production builds.
+* Modern Build Tool: Powered by Vite for lightning-fast development and optimized production builds.
 
-*Clean Architecture: Implemented Path Aliases (e.g., @assets, @styles) for a cleaner and more maintainable codebase.
+* Clean Architecture: Implemented Path Aliases (e.g., @assets, @styles) for a cleaner and more maintainable codebase.
 
-*Vanilla JavaScript: Built with pure JS to ensure deep understanding of DOM manipulation and application logic.
+* Vanilla JavaScript: Built with pure JS to ensure deep understanding of DOM manipulation and application logic.
 
-*Scalable Styling: Used SASS (SCSS) with BEM methodology to keep styles organized and modular.
+* Scalable Styling: Used SASS (SCSS) with BEM methodology to keep styles organized and modular.
 
 ### ✨ Overview
 
