@@ -5,6 +5,8 @@ With an interactive map and interesting facts, it turns a simple test into an en
 
 ### 👉 [Capital-quiz](https://geo-capitals-quiz.netlify.app/)
 
+---
+
 ## ✨ Overview
 
 This quiz was developed as a final project for a JavaScript course. The project focuses on clean code practices, modular architecture, and creating a seamless user experience without the use of external frameworks.
@@ -32,23 +34,32 @@ This quiz was developed as a final project for a JavaScript course. The project 
 
 ---
 
-## 📸 Media & Demo
+### 📱 UI & UX Showcase
 
-### 🎥 Project Walkthrough
-> *[Insert your short video or GIF here to show the quiz in action]*
+**1. General Responsiveness**
 
-### 📱 Screenshots
-<div align="center">
-  <img src="your-screenshot-link-1.png" width="45%" alt="Desktop Version" />
-  <img src="your-screenshot-link-2.png" width="45%" alt="Mobile Version" />
-</div>
+<img src="link_to_video_1.gif" width="100%" />
+
+*How the layout adapts to any screen size.*
+
+**2. Mobile-First Map UX**
+
+<img src="link_to_video_2.gif" width="100%" />
+
+*Special scaling and scrolling logic to ensure regions remain tappable on small screens.*
+
+**3. Gameplay Mechanics**
+
+<img src="link_to_video_3.gif" width="100%" />
+
+*Demonstration of map interactions, quiz logic, and educational facts.*
 
 ---
 
 ### 🛠️ Built With
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript]([https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black))
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
