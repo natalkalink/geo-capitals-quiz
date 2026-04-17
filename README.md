@@ -6,6 +6,17 @@ With an interactive map and interesting facts, it turns a simple test into an en
 ### 👉 [Capital-quiz](https://geo-capitals-quiz.netlify.app/)
 
 
+
+### 🛠️ Technical Highlights
+
+*Modern Build Tool: Powered by Vite for lightning-fast development and optimized production builds.
+
+*Clean Architecture: Implemented Path Aliases (e.g., @assets, @styles) for a cleaner and more maintainable codebase.
+
+*Vanilla JavaScript: Built with pure JS to ensure deep understanding of DOM manipulation and application logic.
+
+*Scalable Styling: Used SASS (SCSS) with BEM methodology to keep styles organized and modular.
+
 ### ✨ Overview
 
 A dynamic web application designed to help users master European capitals and explore the regions of Ukraine in an engaging way.
