@@ -5,6 +5,17 @@ With an interactive map and interesting facts, it turns a simple test into an en
 
 ### 👉 [Capital-quiz](https://geo-capitals-quiz.netlify.app/)
 
+
+### ✨ Overview
+
+A dynamic web application designed to help users master European capitals and explore the regions of Ukraine in an engaging way.
+
+Includes interactive geography quizzes, educational facts, and a custom-built interactive SVG map with real-time feedback.
+
+I was responsible for the full frontend development cycle.
+
+My main task was to build a fully responsive interface and ensure that the interactive map remains functional and user-friendly across all devices, from desktops to smartphones.
+
 ### 🛠️ Built With
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -12,6 +23,3 @@ With an interactive map and interesting facts, it turns a simple test into an en
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-![BEM](https://img.shields.io/badge/BEM-black?style=for-the-badge&logo=bem&logoColor=white)
-
-![BEM](https://img.shields.io/badge/BEM-blue?style=for-the-badge&logo=csswizardry&logoColor=white)
