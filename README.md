@@ -5,7 +5,15 @@ With an interactive map and interesting facts, it turns a simple test into an en
 
 ### 👉 [Capital-quiz](https://geo-capitals-quiz.netlify.app/)
 
+### ✨ Overview
 
+A dynamic web application designed to help users master European capitals and explore the regions of Ukraine in an engaging way.
+
+Includes interactive geography quizzes, educational facts, and a custom-built interactive SVG map with real-time feedback.
+
+I was responsible for the full frontend development cycle.
+
+My main task was to build a fully responsive interface and ensure that the interactive map remains functional and user-friendly across all devices, from desktops to smartphones.
 
 ### 🛠️ Technical Highlights
 
@@ -16,16 +24,6 @@ With an interactive map and interesting facts, it turns a simple test into an en
 * Vanilla JavaScript: Built with pure JS to ensure deep understanding of DOM manipulation and application logic.
 
 * Scalable Styling: Used SASS (SCSS) with BEM methodology to keep styles organized and modular.
-
-### ✨ Overview
-
-A dynamic web application designed to help users master European capitals and explore the regions of Ukraine in an engaging way.
-
-Includes interactive geography quizzes, educational facts, and a custom-built interactive SVG map with real-time feedback.
-
-I was responsible for the full frontend development cycle.
-
-My main task was to build a fully responsive interface and ensure that the interactive map remains functional and user-friendly across all devices, from desktops to smartphones.
 
 ### 🛠️ Built With
 
