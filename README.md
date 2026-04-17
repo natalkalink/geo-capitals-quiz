@@ -39,21 +39,21 @@ This quiz was developed as a final project for a JavaScript course. The project 
 **1. General Responsiveness**
 
 <div align="center">
-  <img src="./img/capital-quiz-01.gif" width="90%" />
+  <img src="./img/capital-quiz-01.gif" width="100%" />
   <p><i>How the layout adapts to any screen size.</i></p>
 </div>
 
 **2. Mobile-First Map UX**
 
 <div align="center">
-  <img src="./img/capital-quiz-02.gif" width="90%" />
+  <img src="./img/capital-quiz-02.gif" width="100%" />
   <p><i>Special scaling and scrolling logic to ensure regions remain tappable on small screens.</i></p>
 </div>
 
 **3. Gameplay Mechanics**
 
 <div align="center">
-  <img src="./img/capital-quiz-03.gif" width="90%" />
+  <img src="./img/capital-quiz-03.gif" width="100%" />
   <p><i>Demonstration of map interactions, quiz logic, and educational facts.</i></p>
 </div>
 
@@ -65,4 +65,15 @@ This quiz was developed as a final project for a JavaScript course. The project 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+
+![HTML5](https://img.shields.io/badge/HTML5-8B735B?style=for-the-badge&logo=html5&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-8B735B?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8B735B?style=for-the-badge&logo=javascript&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-8B735B?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8B735B?style=for-the-badge&logo=vite&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-8B735B?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8B735B?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-8B735B?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
