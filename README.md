@@ -5,74 +5,30 @@ With an interactive map and interesting facts, it turns a simple test into an en
 
 ### 👉 [Capital-quiz](https://geo-capitals-quiz.netlify.app/)
 
-### ✨ Overview
-
-A dynamic web application designed to help users master European capitals and explore the regions of Ukraine in an engaging way.
-
-Includes interactive geography quizzes, educational facts, and a custom-built interactive SVG map with real-time feedback.
-
-I was responsible for the full frontend development cycle.
-
-My main task was to build a fully responsive interface and ensure that the interactive map remains functional and user-friendly across all devices, from desktops to smartphones.
-
-### 🛠️ Technical Highlights
-
-* Modern Build Tool: Powered by Vite for lightning-fast development and optimized production builds.
-
-* Clean Architecture: Implemented Path Aliases (e.g., @assets, @styles) for a cleaner and more maintainable codebase.
-
-* Vanilla JavaScript: Built with pure JS to ensure deep understanding of DOM manipulation and application logic.
-
-* Scalable Styling: Used SASS (SCSS) with BEM methodology to keep styles organized and modular.
-
-### 🛠️ Built With
-
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-
-# 🌍 Interactive Geography Quiz
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/BEM-black?style=for-the-badge" />
-</p>
-
-An interactive and engaging web application designed to help users master European capitals and explore the regions of Ukraine. This project turns geography learning into an enjoyable game through real-time feedback and an interactive map.
-
-**🔗 Links:**
-* **Live Demo:** [View Project](https://geo-capitals-quiz.netlify.app/)
-* **Build Tool:** Vite
-
----
-
 ## ✨ Overview
 
-This quiz was developed as a final project after completing an advanced JavaScript course. It focuses on clean code, modular architecture, and seamless user experience.
+This quiz was developed as a final project for a JavaScript course. The project focuses on clean code practices, modular architecture, and creating a seamless user experience without the use of external frameworks.
 
 ### Key Features:
-* **Interactive SVG Maps:** Custom-built interactive maps for Europe and Ukraine with real-time feedback.
-* **Educational Insights:** Includes interesting facts about regions and countries to enhance the learning process.
-* **Full Development Cycle:** I was responsible for the entire frontend cycle, from project initialization to final deployment.
-* **Responsive Design:** Fully optimized for all devices, ensuring the interactive map remains functional and user-friendly from desktops to smartphones.
+* **Interactive SVG Map of Ukraine:** A custom-built interactive map that provides real-time feedback. It includes a specific mobile-first UX: instead of shrinking, the map scales up on small screens to ensure regions remain easy to select and explore.
+* **Educational Insights:** After answering, users can learn interesting and unique facts about the regions of Ukraine, turning a simple test into an educational experience.
+* **European Capitals Quiz:** A dedicated mode to test and improve knowledge of European countries and their capitals.
+* **Full Development Cycle:** I managed the entire process from project initialization and environment setup (Vite) to final deployment and hosting.
+* **Responsive & Accessible:** Fully optimized for all devices. The interface and map logic are specifically designed to remain functional and user-friendly on both desktops and smartphones.
 
 ---
 
 ## 🛠️ Technical Highlights
 
 ### 🏗️ Architecture & Logic
-* **Component-Based Approach:** The UI is divided into independent, reusable modules (Start Screen, Quiz Logic, Map, Info Modals).
-* **Vanilla JavaScript:** Built with pure JS to demonstrate deep understanding of DOM manipulation and application state management.
-* **Clean Code Practices:** Functions and utility helpers are organized at the top of files to ensure logic is easy to follow and maintain.
+* **Component-Based Approach:** The UI is divided into independent modules, making the codebase easier to maintain and scale.
+* **Vanilla JavaScript:** Built entirely with pure JS to demonstrate a strong foundation in DOM manipulation and application state management.
+* **Clean Code:** Adhering to professional standards, ensuring that functions and logic are well-structured and easy to read.
 
 ### ⚙️ Developer Experience (DX)
-* **Modern Tooling:** Powered by **Vite** for lightning-fast development and optimized production builds.
-* **Path Aliases:** Implemented custom aliases (e.g., `@assets`, `@styles`) to avoid "relative import hell" and keep the codebase clean.
-* **Scalable Styling:** Used **SASS (SCSS)** with **BEM methodology** for modular, conflict-free styles.
+* **Modern Build Tool:** Powered by **Vite** for optimized performance and a modern development workflow.
+* **Path Aliases:** Configured custom aliases to maintain a clean and professional project structure.
+* **Modular Styling:** Used **SASS (SCSS)** with **BEM methodology** for scalable and conflict-free CSS.
 
 ---
 
@@ -89,9 +45,10 @@ This quiz was developed as a final project after completing an advanced JavaScri
 
 ---
 
-## 🚀 Getting Started
+### 🛠️ Built With
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/natalkalink/geo-capitals-quiz.git](https://github.com/natalkalink/geo-capitals-quiz.git)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript]([https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black))
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
